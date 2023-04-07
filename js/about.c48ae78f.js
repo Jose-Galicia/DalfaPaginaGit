@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdalfarconsultores"]=self["webpackChunkdalfarconsultores"]||[]).push([[443],{7381:function(n,a,r){r.r(a),r.d(a,{default:function(){return i}});var s=r(3396);const u={class:"about"},t=(0,s._)("h1",null,"This is an about page",-1),e=[t];function c(n,a){return(0,s.wg)(),(0,s.iD)("div",u,e)}var o=r(89);const l={},f=(0,o.Z)(l,[["render",c]]);var i=f}}]);
+//# sourceMappingURL=about.c48ae78f.js.map
